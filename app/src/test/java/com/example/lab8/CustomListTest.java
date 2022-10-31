@@ -57,6 +57,6 @@ public class CustomListTest {
         cityList.addCity(city);
 
           assertTrue(cityList.hasCity(city));
-          assertFalse(cityList.hasCity(oldCity));
     }
+
     }
